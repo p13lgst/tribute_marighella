@@ -1,0 +1,10 @@
+body {
+	padding: 60px;
+}
+
+#image {
+	display: block;
+	margin:auto;
+	height: auto;
+	max-width: 100%;
+}
